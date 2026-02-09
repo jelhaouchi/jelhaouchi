@@ -31,7 +31,7 @@ I architect and deliver Container-as-a-Service platforms across multi-cloud envi
 
 I write about Kubernetes, cloud migrations, observability, and platform engineering -- sharing what I learn from building production systems.
 
-*Blog coming soon on [Hashnode](https://hashnode.com/).*
+[![Blog](https://img.shields.io/badge/Blog-jelhaouchi.io-2962FF?style=flat)](https://www.jelhaouchi.io/)
 
 ## Let's connect
 
