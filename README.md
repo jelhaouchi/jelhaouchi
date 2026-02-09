@@ -1,30 +1,35 @@
 # Hey, I'm Jawad
 
-**Principal Architect** building cloud-native platforms at scale.
+**Principal Architect** building CaaS platforms, private cloud, and developer platforms at scale.
 
-I design and operate production Kubernetes platforms on AWS -- from infrastructure provisioning with Terraform to GitOps delivery with ArgoCD. Based in Paris, currently at [Believe](https://www.believe.com/).
+I architect and deliver Container-as-a-Service platforms across multi-cloud environments (AWS, GCP, Azure) -- from datacenter-to-cloud migrations to GitOps-driven delivery with ArgoCD. Currently building an observability product for data at [Believe](https://www.believe.com/), based in Paris.
 
 ## What I work with
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Currently focused on
 
-- Designing multi-tenant EKS platforms with GitOps-driven delivery
-- Platform engineering patterns: developer experience, self-service, guardrails
-- Cost optimization and resource efficiency at cluster scale
+- Building a CaaS platform and migrating workloads from datacenter to cloud
+- Multi-cloud platform engineering across AWS, GCP, and Azure
+- Designing an observability product for data pipelines
+- Developer platform: self-service, guardrails, and golden paths
 - Working toward **Kubestronaut** (CNCF 5x Kubernetes certified)
 
 ## Writing
 
-I write about Kubernetes, AWS, and platform engineering -- sharing what I learn from building production systems.
+I write about Kubernetes, cloud migrations, observability, and platform engineering -- sharing what I learn from building production systems.
 
 *Blog coming soon on [Hashnode](https://hashnode.com/).*
 
