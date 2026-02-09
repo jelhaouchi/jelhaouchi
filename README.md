@@ -2,7 +2,7 @@
 
 **Principal Architect** building CaaS platforms, private cloud, and developer platforms at scale.
 
-I architect and deliver Container-as-a-Service platforms across multi-cloud environments (AWS, GCP, Azure) -- from datacenter-to-cloud migrations to GitOps-driven delivery with ArgoCD. Currently building an observability product for data at [Believe](https://www.believe.com/), based in Paris.
+I architect and deliver Container-as-a-Service platforms across multi-cloud environments (AWS, GCP, Azure) -- migrating workloads from datacenter to CaaS with GitOps-driven delivery. Currently building an observability product for data at [Believe](https://www.believe.com/), based in Paris.
 
 ## What I work with
 
@@ -21,7 +21,7 @@ I architect and deliver Container-as-a-Service platforms across multi-cloud envi
 
 ## Currently focused on
 
-- Building a CaaS platform and migrating workloads from datacenter to cloud
+- Building a CaaS platform and migrating workloads from datacenter to CaaS
 - Multi-cloud platform engineering across AWS, GCP, and Azure
 - Designing an observability product for data pipelines
 - Developer platform: self-service, guardrails, and golden paths
