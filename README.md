@@ -31,6 +31,8 @@ I architect and deliver Container-as-a-Service platforms across multi-cloud envi
 
 I write about Kubernetes, cloud migrations, observability, and platform engineering -- sharing what I learn from building production systems.
 
+Latest series: **Building a CaaS Platform in Production** -- [What is a CaaS Platform and why we built one](https://jelhaouchi.io/en/posts/what-is-a-caas-platform/)
+
 [![Blog](https://img.shields.io/badge/Blog-jelhaouchi.io-2962FF?style=flat)](https://www.jelhaouchi.io/)
 
 ## Let's connect
