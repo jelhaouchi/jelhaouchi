@@ -2,7 +2,7 @@
 
 **Principal Architect** building CaaS platforms, private cloud, and developer platforms at scale.
 
-I architect and deliver Container-as-a-Service platforms across multi-cloud environments (AWS, GCP, Azure) -- migrating workloads from datacenter to CaaS with GitOps-driven delivery. Currently building an observability product for data at [Believe](https://www.believe.com/), based in Casablanca.
+I architect and deliver Container-as-a-Service platforms across multi-cloud environments (AWS, GCP, Azure) -- migrating workloads from datacenter to CaaS with GitOps-driven delivery. Currently building an observability product for data at [Believe](https://www.believe.com/), based in Paris and Casablanca.
 
 ## What I work with
 
